@@ -2,6 +2,8 @@
 
 # Challenge Oracle ONE: Text Encoder/Decoder
 
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-%20FINISHED-green)
+
 This is a small program that encrypts and decrypts text using a simple code matrix.
 
 Table of Contents:
