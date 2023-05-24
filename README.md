@@ -1,5 +1,3 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-giudice-940771a1/)
-
 # Challenge Oracle ONE: Text Encoder/Decoder
 
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-%20FINISHED-green)
@@ -36,3 +34,8 @@ If you would like to contribute to this program, you can submit a pull request w
 Enjoy it!
 
 karpo27
+
+### How to reach me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-giudice-940771a1/)
+<a href = "mailto:juliangiudice@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
