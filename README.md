@@ -10,6 +10,7 @@ Table of Contents:
 - [Rules](#Rules)
 - [Technologies Used](#Technologies-Used)
 - [Contributing](#Contributing)
+- [How to reach me](#How-to-reach-me)
 
 ## Installation
 To use this program, simply download the code files and open the index.html file in a web browser. There is no need to install any additional software or dependencies.
